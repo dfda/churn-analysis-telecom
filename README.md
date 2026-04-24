@@ -1,5 +1,5 @@
 # 📊 Análise de Churn: Retenção de Clientes Telecom
-
+![Dashboard de Churn](./visuals/Análise Churn.jpeg)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
 ![Ferramentas](https://img.shields.io/badge/Ferramentas-SQL%20|%20Power%20BI-green)
 
